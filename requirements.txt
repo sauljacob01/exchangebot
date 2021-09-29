@@ -1,1 +1,6 @@
-
+discord_py_slash_command==1.1.2
+aiofiles==0.6.0
+py_cord==1.7.3
+discord_components==2.1.0
+discord==1.7.3
+Pillow==8.3.2
